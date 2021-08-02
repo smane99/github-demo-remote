@@ -6,7 +6,7 @@ def mult(x,y):
      pass
 # sub imple
 def sub(x,y):
-     pass
+     return x-y #from remote repo
 # div imple
 def div(x,y):
      pass
