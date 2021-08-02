@@ -1,6 +1,6 @@
 #Add imple
 def add(x,y):
-     pass
+     return x+y
 # mult imple
 def mult(x,y):
      pass
